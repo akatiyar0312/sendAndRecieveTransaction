@@ -1,0 +1,31 @@
+[
+  {
+    "x500Name": "CN=ABC Exports, OU=Test Dept, O=R3, L=London, C=GB",
+    "cpi": "MyCorDapp"
+  },
+  {
+    "x500Name": "CN=ICICI Bank, OU=Bank, O=R3, L=London, C=GB",
+    "cpi": "MyCorDapp"
+  },
+  {
+    "x500Name": "CN=LBG Bank, OU=Bank, O=R3, L=London, C=GB",
+    "cpi": "MyCorDapp"
+  },
+  {
+    "x500Name": "CN=Global Imports, OU=Test Dept, O=R3, L=London, C=GB",
+    "cpi": "MyCorDapp"
+  },
+  {
+    "x500Name": "CN=NotaryRep1, OU=Test Dept, O=R3, L=London, C=GB",
+    "cpi": "NotaryServer",
+    "serviceX500Name": "CN=NotaryService, OU=Test Dept, O=R3, L=London, C=GB"
+  },
+  {
+    "x500Name": "CN=RBI, OU=Regulator, O=R3, L=London, C=GB",
+    "cpi": "MyCorDapp"
+  },
+  {
+    "x500Name": "CN=Bank of England, OU=Regulator, O=R3, L=London, C=GB",
+    "cpi": "MyCorDapp"
+  }
+]
